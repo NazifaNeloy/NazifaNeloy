@@ -1,5 +1,44 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>Web development — building my skills in HTML, CSS, Tailwind, and JavaScript.<br><br>👯 I’m looking to collaborate on:<br>Frontend projects, Framer websites, and creative tech ideas.<br><br>🤝 I’m looking for help with:<br>JavaScript practice, backend basics, and improving my project structure.<br><br>🌱 I’m currently learning:<br>Responsive design, Tailwind CSS, and core JavaScript.<br><br>💬 Ask me about:<br>Design, Framer, branding, and creative direction.<br><br>⚡ Fun fact:<br>I mix tech + art — web development during the day, textures & calligraphy at night.<br><br>📫 Reach me at:<br>nazifaneloy25@gmail.com
+Hi there! 👋
+
+I'm Nazifa Neloy, a passionate Full-Stack Developer in the making.
+I’ve completed my frontend journey and now leveling up with backend development to build complete, scalable web applications.
+
+I love clean UI, smooth functionality, and bringing ideas to life through code.<br><br>💻 Tech Stack
+Frontend (Done ✔)<br>
+
+HTML, CSS, TailwindCSS<br>
+
+JavaScript<br>
+
+React.js (core concepts)<br>
+
+UI/UX & Figma<br>
+
+Framer (basic–intermediate)<br><br>Backend (Currently Learning 🚀)<br>
+
+Node.js<br>
+
+Express.js<br>
+
+MongoDB<br>
+
+Mongoose / Prisma (learning path)<br>
+
+REST APIs<br>
+
+Authentication & Authorization<br><br>
+
+🚀 What I Do<br>
+Full-Stack Development<br>
+
+Transforming ideas into real-world web apps — building both the frontend and backend, step by step.<br>
+
+Creative Tech + UI Work<br>
+
+I enjoy designing screens, improving user experience, and turning concepts into functional prototypes.<br><br>
+
+📫 Reach me at:<br>nazifaneloy25@gmail.com
 
 
 ## 🌐 Socials:
