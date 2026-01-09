@@ -11,23 +11,9 @@ HTML, CSS, TailwindCSS<br>
 
 JavaScript<br>
 
-React.js (core concepts)<br>
-
 UI/UX & Figma<br>
 
-Framer (basic–intermediate)<br><br>Backend (Currently Learning 🚀)<br>
-
-Node.js<br>
-
-Express.js<br>
-
-MongoDB<br>
-
-Mongoose / Prisma (learning path)<br>
-
-REST APIs<br>
-
-Authentication & Authorization<br><br>
+Framer (basic–intermediate)<br><br>
 
 🚀 What I Do<br>
 Full-Stack Development<br>
