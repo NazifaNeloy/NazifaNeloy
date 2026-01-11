@@ -1,23 +1,23 @@
-### Hi there! 👋 I'm Nazifa Neloy
+### Hi there! I'm Nazifa Neloy
 
-I am an aspiring **Software Engineer** actively bridging the gap between design and development. With a strong proficiency in **Frontend Engineering**, I am currently expanding my stack into **Backend Architecture** to build scalable, full-stack web applications.
+I am a **3rd-year CSE student** exploring Software Engineering. 
 
-I don't just write code; I care about clean UI, seamless functionality, and the story behind the product.
+Currently, my main focus is **Web Development**. I am writing code daily to understand core web technologies and how to build responsive, functional sites.
 
-### 💻 Technical Arsenal
+---
 
-**Frontend & Design (Core Strength)**
-* JavaScript (ES6+)
-* TailwindCSS, HTML5, CSS3
-* Figma & UI/UX Strategy
-* Framer
+### 💻 What I'm Using
 
-### 🚀 What I Do
+I am currently building projects with:
 
-* **Full-Stack Engineering:** Transforming creative concepts into functional web apps. I build the visual interface with precision and am actively engineering the logic that powers it.
-* **Creative Tech + UI Strategy:** I design with an engineering mindset—ensuring that every pixel serves a purpose and every interaction feels intuitive.
+* **Languages:** JavaScript, HTML5, CSS3
+* **Tools:** VS Code, Git/GitHub, TailwindCSS
+* **Interest:** UI Design & Frontend Logic
 
+---
 
+### 🚀 Goal
+To build a strong foundation in coding fundamentals before moving to advanced frameworks.
 📫 Reach me at:<br>nazifaneloy25@gmail.com
 
 
