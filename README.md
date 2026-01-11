@@ -1,28 +1,22 @@
-# 💫 About Me:
-Hi there! 👋
+### Hi there! 👋 I'm Nazifa Neloy
 
-I'm Nazifa Neloy, a passionate Full-Stack Developer in the making.
-I’ve completed my frontend journey and now leveling up with backend development to build complete, scalable web applications.
+I am an aspiring **Software Engineer** actively bridging the gap between design and development. With a strong proficiency in **Frontend Engineering**, I am currently expanding my stack into **Backend Architecture** to build scalable, full-stack web applications.
 
-I love clean UI, smooth functionality, and bringing ideas to life through code.<br><br>💻 Tech Stack
-Frontend (Done ✔)<br>
+I don't just write code; I care about clean UI, seamless functionality, and the story behind the product.
 
-HTML, CSS, TailwindCSS<br>
+### 💻 Technical Arsenal
 
-JavaScript<br>
+**Frontend & Design (Core Strength)**
+* JavaScript (ES6+)
+* TailwindCSS, HTML5, CSS3
+* Figma & UI/UX Strategy
+* Framer
 
-UI/UX & Figma<br>
+### 🚀 What I Do
 
-Framer (basic–intermediate)<br><br>
+* **Full-Stack Engineering:** Transforming creative concepts into functional web apps. I build the visual interface with precision and am actively engineering the logic that powers it.
+* **Creative Tech + UI Strategy:** I design with an engineering mindset—ensuring that every pixel serves a purpose and every interaction feels intuitive.
 
-🚀 What I Do<br>
-Full-Stack Development<br>
-
-Transforming ideas into real-world web apps — building both the frontend and backend, step by step.<br>
-
-Creative Tech + UI Work<br>
-
-I enjoy designing screens, improving user experience, and turning concepts into functional prototypes.<br><br>
 
 📫 Reach me at:<br>nazifaneloy25@gmail.com
 
